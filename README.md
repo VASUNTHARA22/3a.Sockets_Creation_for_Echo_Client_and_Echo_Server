@@ -29,7 +29,8 @@ while True:
     c.send(ClientMessage.encode()) 
 ```
 ## OUPUT
-<img width="1331" height="319" alt="image" src="https://github.com/user-attachments/assets/238455e9-7cbe-4c6b-a218-cf818a176646" />
+<img width="1376" height="1088" alt="image" src="https://github.com/user-attachments/assets/2a6671b5-2d1e-4c91-b910-8e75b4271a3b" />
+
 
 
 ## RESULT
