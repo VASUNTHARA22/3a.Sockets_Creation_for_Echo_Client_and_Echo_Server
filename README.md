@@ -29,7 +29,8 @@ while True:
     c.send(ClientMessage.encode()) 
 ```
 ## OUPUT
-<img width="1918" height="1142" alt="message-1" src="https://github.com/user-attachments/assets/64b765c1-93ac-4dc0-9dba-a9931eceb252" />
+<img width="1331" height="319" alt="image" src="https://github.com/user-attachments/assets/238455e9-7cbe-4c6b-a218-cf818a176646" />
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
